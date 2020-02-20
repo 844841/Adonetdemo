@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adonetdemo", "Adonetdemo\Adonetdemo.csproj", "{0C1AE735-A1B6-47C9-A0C4-E5EDDF112916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C1AE735-A1B6-47C9-A0C4-E5EDDF112916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1AE735-A1B6-47C9-A0C4-E5EDDF112916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1AE735-A1B6-47C9-A0C4-E5EDDF112916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1AE735-A1B6-47C9-A0C4-E5EDDF112916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {716A7078-DAB0-42A0-B9D7-F6327D8BDAE8}
+	EndGlobalSection
+EndGlobal
